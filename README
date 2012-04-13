@@ -1,0 +1,14 @@
+Written by Chris McDermott, AppliedTrust
+  chris@appliedtrust.com
+  v0.1 04/12/2012
+
+
+------------------------------------------------------------------
+We offer no warranty or guarantee - use this code at your own risk!
+All code is Copyright (C) 2011, Applied Trust Engineering, Inc.
+------------------------------------------------------------------
+
+
+
+This very simple web app checks a set of AD credentials, and if 
+they're valid, creates a temporary AWS federated credentials.
